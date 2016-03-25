@@ -1,7 +1,7 @@
 name: 'Bybloo!'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.8497145322617143
+typography_spectrum: 0.86551
 title: 'Bybloo!'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f8f7fc'
-    - '#cbc1c9'
-    - '#452f37'
-    - '#1754b7'
-    - '#ff2c85'
+    - '#3e3e3e'
+    - '#161616'
+    - '#e4e4e4'
+    - '#595959'
+    - '#a7a7a7'
   brandStrength: 1
   lightness: 0.4375
-  saturation: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
