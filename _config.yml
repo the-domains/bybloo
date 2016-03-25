@@ -1,6 +1,6 @@
 name: 'Bybloo!'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.86551
 title: 'Bybloo!'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e4e4e4'
     - '#595959'
     - '#a7a7a7'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
