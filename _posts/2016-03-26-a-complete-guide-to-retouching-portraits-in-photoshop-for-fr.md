@@ -17,15 +17,15 @@ keywords:
   - article
   - burn
 description: ''
-datePublished: '2016-03-26T18:33:14.847Z'
-dateModified: '2016-03-26T18:32:31.138Z'
+datePublished: '2016-03-26T18:33:36.654Z'
+dateModified: '2016-03-26T18:33:28.294Z'
 author:
   - name: Dani Diamond
     url: 'https://fstoppers.com/profile/danidiamond'
     avatar: {}
 related: []
 app_links: []
-title: "Dani Diamond publish his real \"diamond\". I'm simply amazed! Thanks Dani!"
+title: "Dani Diamond published his real \"diamond\". I'm simply amazed! Thanks Dani!"
 sourcePath: _posts/2016-03-26-a-complete-guide-to-retouching-portraits-in-photoshop-for-fr.md
 published: true
 authors: []
