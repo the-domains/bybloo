@@ -17,8 +17,8 @@ keywords:
   - article
   - burn
 description: ''
-datePublished: '2016-03-26T18:47:47.219Z'
-dateModified: '2016-03-26T18:47:41.210Z'
+datePublished: '2016-03-26T18:54:07.904Z'
+dateModified: '2016-03-26T18:54:02.839Z'
 author:
   - name: Dani Diamond
     url: 'https://fstoppers.com/profile/danidiamond'
@@ -38,6 +38,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82eb3739-31b0-4b44-ad62-13ac0299f665.jpg)
+
 > ...[here you will find the link][0]
 
 
