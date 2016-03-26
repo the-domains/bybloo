@@ -17,8 +17,8 @@ keywords:
   - article
   - burn
 description: ''
-datePublished: '2016-03-26T18:39:57.147Z'
-dateModified: '2016-03-26T18:39:52.001Z'
+datePublished: '2016-03-26T18:47:47.219Z'
+dateModified: '2016-03-26T18:47:41.210Z'
 author:
   - name: Dani Diamond
     url: 'https://fstoppers.com/profile/danidiamond'
@@ -38,9 +38,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> ...[here][0][you will find the link][1]
+> ...[here you will find the link][0]
 
 
 
 [0]: https://fstoppers.com/bts/complete-guide-retouching-portraits-photoshop-free-98236
-[1]: null
