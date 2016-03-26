@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Bybloo!]]></title>
         <description><![CDATA[Bybloo!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.bybloo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 22:15:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 17:40:00 GMT</lastBuildDate>
+        <atom:link href="http://www.bybloo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Complete Guide to Retouching Portraits in Photoshop for Free | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>A Complete Guide to Retouching Portraits in Photoshop for Free | Fstoppers</h1><p>There is an innumerable amount of articles and tutorials teaching parts and pieces of retouching portraits. However, finding the ones with quality techniques and information can take days. Furthermore, there is no singular tutorial that teaches a complete set of methods to retouch portraits free of charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd1cf61ab2431639aaeb31f34b2b5a9888983569.jpg"></article>]]></description>
+            <link>https://fstoppers.com/bts/complete-guide-retouching-portraits-photoshop-free-98236</link>
+            <guid isPermaLink="false">0bfd424c-395f-4b9a-b319-64712bdc5d61</guid>
+            <pubDate>Sat, 26 Mar 2016 17:39:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portrait in Natural Light]]></title>
-            <description><![CDATA[<article><h1>Portrait in Natural Light</h1><p>Natural light only </p><img src="https://drscdn.500px.org/photo/145677055/q%3D80_m%3D2000/a041dcd1d090e2e1f2694710ef40b086"></article>]]></description>
+            <description><![CDATA[<article><h1>Portrait in Natural Light</h1><p>Natural light only </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eee09cdf4d2036f757efecc3f7c78d8147e6bee5.jpg"></article>]]></description>
             <link>https://500px.com/photo/145677055</link>
             <guid isPermaLink="false">eab1a5a4-f142-4bf3-8445-b606096a156b</guid>
             <pubDate>Fri, 25 Mar 2016 22:15:23 GMT</pubDate>
