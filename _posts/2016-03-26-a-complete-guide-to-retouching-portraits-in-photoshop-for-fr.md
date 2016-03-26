@@ -16,9 +16,9 @@ keywords:
   - eyes
   - article
   - burn
-description: 'There is an innumerable amount of articles and tutorials teaching parts and pieces of retouching portraits. However, finding the ones with quality techniques and information can take days. Furthermore, there is no singular tutorial that teaches a complete set of methods to retouch portraits free of charge.'
-datePublished: '2016-03-26T18:27:39.533Z'
-dateModified: '2016-03-26T17:56:57.515Z'
+description: ''
+datePublished: '2016-03-26T18:33:14.847Z'
+dateModified: '2016-03-26T18:32:31.138Z'
 author:
   - name: Dani Diamond
     url: 'https://fstoppers.com/profile/danidiamond'
@@ -39,5 +39,3 @@ _type: MediaObject
 
 ---
 > Dani Diamond (my hero) published on Fstoppers his "diamond". I'm simply amazed.. thanks really a lot Dani!
-
-<article style=""><h1>A Complete Guide to Retouching Portraits in Photoshop for Free | Fstoppers</h1><p>There is an innumerable amount of articles and tutorials teaching parts and pieces of retouching portraits. However, finding the ones with quality techniques and information can take days. Furthermore, there is no singular tutorial that teaches a complete set of methods to retouch portraits free of charge.</p><img src="https://cdn.fstoppers.com/styles/full/s3/media/2015/11/sss.jpg" /></article>
