@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-26T18:10:11.494Z'
-dateModified: '2016-03-26T18:07:47.209Z'
-title: ''
+datePublished: '2016-03-26T18:11:50.139Z'
+dateModified: '2016-03-26T18:11:41.040Z'
+title: 'Bybloo!'
 author: []
 sourcePath: _posts/2016-03-26-bybloo-discover-portrait-photography-by-blog.md
 published: true
@@ -22,4 +22,4 @@ url: bybloo-discover-portrait-photography-by-blog/index.html
 _type: Article
 
 ---
-> Bybloo!... discover portrait photography by blog!
+> ... discover portrait photography by blog!
