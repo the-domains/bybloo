@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Natural light only '
-datePublished: '2016-03-26T17:41:45.957Z'
-dateModified: '2016-03-26T17:41:24.570Z'
+datePublished: '2016-03-26T18:03:06.002Z'
+dateModified: '2016-03-26T18:03:03.139Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-natural-light-only.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> Few experiment trying to understand the hidden power of natural light.
+> An experiment trying to understand the hidden power of natural light.
 
 <article style=""><h1>Portrait in Natural Light</h1><p>Outdoor Portrait - Natural Light only</p><img src="https://drscdn.500px.org/photo/145677055/q%3D80_m%3D2000/a041dcd1d090e2e1f2694710ef40b086" /></article>
