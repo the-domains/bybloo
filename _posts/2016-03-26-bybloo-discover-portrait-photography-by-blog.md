@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-26T18:01:22.568Z'
-dateModified: '2016-03-26T18:01:16.761Z'
+datePublished: '2016-03-26T18:02:42.791Z'
+dateModified: '2016-03-26T18:01:33.719Z'
 title: 'Bybloo!... discover portrait photography by blog!'
 author: []
 authors: []
