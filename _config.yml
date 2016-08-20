@@ -1,8 +1,21 @@
-name: 'Bybloo!'
+layout_spectrum: 0.6606662205886096
+typography_spectrum: 0.29642187245190144
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.1364999630022794
+  lightness: 0.14869755692780018
+  saturation: 0.04265438439324498
+  rhythmicContrast: 0.9900499198120087
+coverPrefs:
+  filter: false
+name: Bybloo!
 favicon: null
-layout_spectrum: 0.74857
-typography_spectrum: 0.77658
-title: 'Bybloo!'
+title: Bybloo!
 cta:
   domain: null
   bucket: null
@@ -15,15 +28,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3e3e3e'
-    - '#161616'
-    - '#e4e4e4'
-    - '#595959'
-    - '#a7a7a7'
-  brandStrength: 0.1875
-  lightness: 0
-  saturation: 0.6875
-  rhythmicContrast: 1
 purpose: []
